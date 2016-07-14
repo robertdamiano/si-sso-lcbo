@@ -1,11 +1,11 @@
 # si-sso-lcbo
 Authenticating using SSO and utilizing LCBO API
 
-Note: The below usage assumes you have created a Twitter app, and have registered for an LCBO API key
+Note: The below usage assumes you have Docker and GIT installed, you created a Twitter app, and have registered for an LCBO API key
 
 Usage:
 
-1) Checkout the si-sso-lcbo repo: https://github.com/robertdamiano/si-sso-lcbo.git
+1) Checkout the si-sso-lcbo repo: git clone https://github.com/robertdamiano/si-sso-lcbo.git
 
 2) Change directory to si-sso-lcbo: cd si-sso-lcbo
 
